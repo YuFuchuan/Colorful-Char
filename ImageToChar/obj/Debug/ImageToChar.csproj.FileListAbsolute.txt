@@ -1,0 +1,11 @@
+D:\VS项目\ImageToChar\ImageToChar\bin\Debug\ImageToChar.exe.config
+D:\VS项目\ImageToChar\ImageToChar\bin\Debug\ImageToChar.exe
+D:\VS项目\ImageToChar\ImageToChar\bin\Debug\ImageToChar.pdb
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.csprojResolveAssemblyReference.cache
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.Form1.resources
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.Properties.Resources.resources
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.Welcome.resources
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.csproj.GenerateResource.Cache
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.csproj.CoreCompileInputs.cache
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.exe
+D:\VS项目\ImageToChar\ImageToChar\obj\Debug\ImageToChar.pdb
