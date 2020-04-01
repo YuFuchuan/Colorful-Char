@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ImageToChar
+namespace ImageToChar.function
 {
     class Test
     {

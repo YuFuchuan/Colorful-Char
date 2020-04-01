@@ -117,17 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label1.Text" xml:space="preserve">
-    <value>V1.0.0注意事项:
-1.当前版本暂不支持点击浏览按钮选择路径,请手动输入;
-2.图片路径请输入图片文件绝对路径(如C:\Users\lenovo\Desktop\1.jpg);
-3.保存目录请输入希望保存到的目录路径(如C:\Users\lenovo\Desktop\);
-4.选择自定义替代字符组时推荐输入包括空格在内的多个字符，字符按黑色占
-  比由高至低排序;
-5.推荐横纵向像素跨度比例为2:3,数字越大失真越严重;
-6.若希望将失真效果降至最低，可将横纵向像素跨度均设为1;
-8.推荐使用Notepad++打开文本并将字体调至最小后观看结果;
-9.后续版本可能会加入一些判定机制，让字符画变得更美观；
-</value>
-  </data>
 </root>

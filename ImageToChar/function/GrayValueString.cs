@@ -2,7 +2,7 @@
  * c_128,c_64,c_32,c_16,c_8,c_4均是从c_256中截取而成;
  */
 
-namespace ImageToChar
+namespace ImageToChar.function
 {
     class GrayValueString
     {

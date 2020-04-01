@@ -3,7 +3,7 @@ using System.Text;
 using System.Drawing;
 using System.IO;
 
-namespace ImageToChar
+namespace ImageToChar.function
 {
     class Transformation
     {

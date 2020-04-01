@@ -1,4 +1,4 @@
-﻿namespace ImageToChar
+﻿namespace ImageToChar.function
 {
     class GetFileName
     {
